@@ -10,7 +10,7 @@ Pour chaque étape, documenter vos actions :
         Screenshot commande + output
         Explication d'une ou 2 ligne sur ce que fait la commande
         
-## Authentification
+## Exercice 1: Authentification
 
 - Générer une paire de clef SSH
 - Pousser votre clef publique dans votre profile Github
@@ -18,14 +18,14 @@ Pour chaque étape, documenter vos actions :
   - username
   - email  
 
-## Exercice 1 : Création d'un Repo Github
+## Exercice 2 : Création d'un Repo Github
 
 - Initialiser votre dépôt local
 - Faire pointer le dépôt local sur un dépôt distant (Remote)
 - Vérifier le dépôt distant
 - Cloner le repository
 
-## Exercice 2 : Modification du Projet CLI
+## Exercice 3 : Modification du Projet CLI
 
 - Modifier un fichier déjà existant
   - Ajouter le port 2222 pour l'host **Tyrell**
@@ -36,7 +36,7 @@ Pour chaque étape, documenter vos actions :
   - Expliquer rapidement la différence entre `git pull` et `git fetch`
 - Pousser vos modifications
 
-## Exercice 3 : Modification du projet GUI
+## Exercice 4 : Modification du projet GUI
 
 - Modifier le fichier `config` en se connectant sur l'interface Github
   - Rajouter :
@@ -48,7 +48,7 @@ Host stark
     IdentityFile ~/.ssh/stark.key
 ```
 
-## Exervice 4 : Branching et Merging
+## Exervice 5 : Branching et Merging
 
 - Assurer vous d'avoir un repo à jour
 - Créer une nouvelle branche et basculer dessus
