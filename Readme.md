@@ -13,6 +13,7 @@ Pour chaque étape, documenter vos actions :
 A chaque exercice rajouter un titre et le nom de l'exercice. La syntaxe ainsi que l'upload de l'image sont décrit dans des liens en haut du template.
 
 :bangbang::bangbang: Pensez à renommer le fichier avec votre **Nom** et **Prénom**
+
 :sparkles: Une fois le TP et le rendu terminé commitez et pushez le dans le repo. :sparkles:
         
 ## Exercice 1: Authentification
