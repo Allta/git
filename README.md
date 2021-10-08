@@ -4,6 +4,7 @@ Si vous avez des problèmes sur une command utilisez `git [command] --help`.
 
 **Rendu :** Un fichier pdf : DEVOPS_GIT_[NOM]\_[PRENOM].md
 
+Vous avez un template de rendu dans le repo. 
 Pour chaque étape, documenter vos actions : 
 
         Screenshot commande + output
