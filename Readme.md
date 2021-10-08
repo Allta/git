@@ -18,6 +18,7 @@ A chaque exercice rajouter un titre et le nom de l'exercice. La syntaxe ainsi qu
   
 ### Tips   
 Si vous avez des problèmes sur une command utilisez `git [command] --help`.
+
 :raising_hand: Si vous avez des soucis n'hésitez pas à m'appeler. 
  
 ## Exercice 1: Authentification
