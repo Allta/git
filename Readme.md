@@ -1,8 +1,8 @@
 # TP Git - Ynov DevOps B3
 
-Si vous avez des problèmes sur une command utilisez `git [command] --help`.
+:see_no_evil: _**Il s'agit d'un travail autonomne**_ :speak_no_evil:
 
-**Rendu :** Un fichier pdf : DEVOPS_GIT_[NOM]\_[PRENOM].md
+## **Rendu :** Un fichier pdf : DEVOPS_GIT_[NOM]\_[PRENOM].md
 
 Vous avez un template de rendu dans le repo. 
 Pour chaque étape, documenter vos actions : 
@@ -15,7 +15,11 @@ A chaque exercice rajouter un titre et le nom de l'exercice. La syntaxe ainsi qu
 :bangbang::bangbang: Pensez à renommer le fichier avec votre **Nom** et **Prénom**
 
 :sparkles: Une fois le TP et le rendu terminé commitez et pushez le dans le repo. :sparkles:
-        
+  
+### Tips   
+Si vous avez des problèmes sur une command utilisez `git [command] --help`.
+:raising_hand: Si vous avez des soucis n'hésitez pas à m'appeler. 
+ 
 ## Exercice 1: Authentification
 
 - Générer une paire de clef SSH
