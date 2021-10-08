@@ -3,7 +3,9 @@
 Si vous avez des problèmes sur une command utilisez `git [command] --help`.
 
 Rendu : Un fichier pdf : DEVOPS_GIT_[NOM]\_[PRENOM].pdf
-        Pour chaque étape, documenter vos actions : 
+
+Pour chaque étape, documenter vos actions : 
+        
         - Screenshot commande + output
         - Explication d'une ou 2 ligne sur ce que fait la commande
 
