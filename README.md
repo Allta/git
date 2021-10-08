@@ -10,8 +10,6 @@ Pour chaque étape, documenter vos actions :
         Screenshot commande + output
         Explication d'une ou 2 ligne sur ce que fait la commande
         
-:star: **Astuce :** Pour uploader des images dans votre Readme : https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
-
 ## Authentification
 
 - Générer une paire de clef SSH
