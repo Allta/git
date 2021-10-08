@@ -1,7 +1,8 @@
 # TP Git - Ynov DevOps B3
 
 Si vous avez des problèmes sur une command utilisez `git [command] --help`.
-Rendu : 
+
+Rendu : Un fichier pdf : DEVOPS_GIT_[NOM]\_[PRENOM].pdf
 
 ## Authentification
 
