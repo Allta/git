@@ -1,6 +1,6 @@
 # TP Git - Ynov DevOps B3
 
-:see_no_evil: _**Il s'agit d'un travail autonomne**_ :speak_no_evil:
+:see_no_evil: _**Il s'agit d'un travail autonomne sauf pour le dernier exerice**_ :speak_no_evil:
 
 ## **Rendu :** Un fichier pdf : DEVOPS_GIT_[NOM]\_[PRENOM].md
 
@@ -61,6 +61,7 @@ Host stark
 
 ## Exervice 5 : Branching et Merging
 
+- Cloner le repo de votre voisin
 - Assurer vous d'avoir un repo à jour
 - Créer une nouvelle branche et basculer dessus
   - Branch name : change_throne 
@@ -69,5 +70,5 @@ Host stark
   -  Supprimer le user `john`dans l'host `stark`
 -  Commiter et pousser la modification dans la nouvelle branche
 -  Créer une Pull Request sur Github
--  Merger les 2 branches
+-  Merger les 2 branches sur votre repo. (Avec les modifications de votre binome)
   
