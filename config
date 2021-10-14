@@ -10,12 +10,14 @@ Host targaryen
 
 Host tyrell
     HostName 192.168.10.20
+    Port 2222
 
 Host martell
     HostName 192.168.10.50
 
 Host *ell
     user oberyn
+    LogLevel INFO
 
 Host * !martell
     LogLevel INFO
