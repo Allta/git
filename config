@@ -4,7 +4,7 @@
 
 Host targaryen
     HostName 192.168.1.10
-    User daenerys
+    User john
     Port 7654
     IdentityFile ~/.ssh/targaryen.key
 
@@ -28,6 +28,5 @@ Host *
 
 Host stark
     HostName 127.0.0.1
-    User john
     Port 6666
     IdentityFile ~/.ssh/stark.key
