@@ -48,6 +48,7 @@ _Explication_ : Nous ajoutons le depot distant en tant que remote dans notre dos
 ### Vérifier le dépôt distant
 
 ![git_remove_-v](https://imgur.com/4HoLHjq.png)
+
 _Explication_ : Nous pourrons utiliser le nom `origin` ou l'URL
 
 ### Pull le repository
@@ -76,25 +77,35 @@ _Explication_ : voici un cycle par default pour faire des modifs dans un projet 
 _Explication_ : Git push permet de pousser nos commits locaux sur le remote en spécifiant la branche. 
 
 ![merge_request](https://imgur.com/7hVvkbm.png)
+
 _Explication_ : 
 
 ### Ajouter un fichier diff.txt et commencer à le tracker
 #### Expliquer rapidement la différence entre git pull et git fetch
 ![diff_txt](https://imgur.com/XVGzeWB.png)
+
 _Explication_ : 
+
 ![git_add](https://imgur.com/4SB8BgH.png)
+
 _Explication_ : 
 
 ### Pousser vos modifications
 
 ![git_checkout_main](https://imgur.com/kHh6cg8.png)
+
 _Explication_ : 
 ![git_branch](https://imgur.com/3fLX0Ua.png)
+
 _Explication_ : 
+
 ![git_pull_main](https://imgur.com/lOpBQdY.png)
+
 _Explication_ : 
+
 ![git_push_main](https://imgur.com/0b2ZD1n.png)_Explication_ : 
 
+_Explication_ : 
 ## Exercice 4 : Modification du projet GUI
 ### Modifier le fichier config en se connectant sur l'interface Github 
 
@@ -109,23 +120,31 @@ _Explication_ : La bonne pratique lors de developpement d'un projet est de pull 
 ### Assurer vous d'avoir un repo à jour
 
 ![git_status](https://imgur.com/AXiZMJ7.png)
+
 _Explication_ : Normalement une fois qu'on pull un projet à jour notre status est propre.
 ### Créer une nouvelle branche et basculer dessus
 ![git_checkout](https://imgur.com/jgFoLOR.png)
 
 _Explication_ : git checkout -b permet de créer et de basculer sur une branche directement, sinon nous aurions pu créer la branche avec **git branch**
 ### Modifier la configuration SSH
+
 ![modif](https://imgur.com/4vngXe6.png)
 
 
 ### Commiter et pousser la modification dans la nouvelle branche
+
 ![git_push](https://imgur.com/VljdXqh.png)
+
 _Explication_ : 
 ### Créer une Pull Request sur Github
+
 ![merge_request](https://imgur.com/VN9CycW.png)
+
 _Explication_ : 
 ### Merger les 2 branches sur votre repo. (Avec les modifications de votre binome)
+
 ![merge](https://imgur.com/Lj63DEs.png)
+
 _Explication_ : 
 
 ![delet_branch](https://imgur.com/TdHnH0g.png)
