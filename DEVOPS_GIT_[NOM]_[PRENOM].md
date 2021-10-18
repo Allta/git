@@ -31,6 +31,7 @@ _Explication_ : Paramétrage de git. Le flag `global` signifie que ces options (
 _Explication_ : Initialisation d'un repo git. Il s'agit d'un dossier Linux standard qui est maintenant suivi par Git grâce au dossier `.git`. Ce dossier contient toutes les informations du depot local et distant.  On voit que Git est sur la branche **master**. Il s'agit de la branch par défault de git.
 
 ![git_branch](https://imgur.com/D1gjHMa.png)
+
 _Explication_ : Cependant il n'y a pas de remote paramétré encore donc pas de branch réellement configurée.
 
 
@@ -63,11 +64,15 @@ Pour pallier à cet effet nous aurions pu créer une nouvelle branche *main* ava
 
 ### Modifier un fichier déjà existant
 #### Ajouter le port 2222 pour l'host Tyrell
+
 ![modfif](https://imgur.com/0j2sd21.png)
+
 #### Set le niveau de log à INFO pour tout les hosts finissant en ell
+
 ![mofig](https://imgur.com/UmqdWmk.png)
 
 ### Consulter le statut et les différences et Commiter vos modifications
+
 ![commit_cycle](https://imgur.com/aPxVqYr.png)
 
 _Explication_ : voici un cycle par default pour faire des modifs dans un projet git.
