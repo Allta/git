@@ -1,4 +1,4 @@
-# B3 TP GIT
+while true;do echo $$ "hello" && sleep 10;done# B3 TP GIT
 
 ## Exercice 1 : Authentification 
 
@@ -83,34 +83,36 @@ _Explication_ : Git push permet de pousser nos commits locaux sur le remote en s
 
 ![merge_request](https://imgur.com/7hVvkbm.png)
 
-_Explication_ : 
+_Explication_ : Une merge request permet de fusionner 2 branches git après avoir revu les modifications. La merge request permet aussi de valider du code avant de le pousser en production.
 
 ### Ajouter un fichier diff.txt et commencer à le tracker
 #### Expliquer rapidement la différence entre git pull et git fetch
+
 ![diff_txt](https://imgur.com/XVGzeWB.png)
 
-_Explication_ : 
 
 ![git_add](https://imgur.com/4SB8BgH.png)
 
-_Explication_ : 
+_Explication_ : Grâce à git add on peut ajouter spécifiquement un fichier au suivi par git. Ces fichiers seront maintenant considéré comme partie du projet et seront affecté par chaque action git. 
 
 ### Pousser vos modifications
 
 ![git_checkout_main](https://imgur.com/kHh6cg8.png)
 
-_Explication_ : 
+_Explication_ : Git checkout permet de basculer d'une branche à une autre. Le travail sous branche permet de travailler parralèlement sans toucher à notre version en production
+
 ![git_branch](https://imgur.com/3fLX0Ua.png)
 
-_Explication_ : 
+_Explication_ : Permet d'afficher les différentes branches de notre projet
 
 ![git_pull_main](https://imgur.com/lOpBQdY.png)
 
-_Explication_ : 
+_Explication_ : Permet de tirer le code présent sur le remote d'une branche spécifique. Il faut prendre pour reflexe de tirer régulièrement le code de la branche de production lors de la création d'une nouvelle branche.
 
-![git_push_main](https://imgur.com/0b2ZD1n.png)_Explication_ : 
+![git_push_main](https://imgur.com/0b2ZD1n.png)
 
-_Explication_ : 
+_Explication_ : Permet de pousser du code sur notre remote. Il faut préciser la branche en upstream sur le repo local. Git nous l'indique de toutes façons.
+
 ## Exercice 4 : Modification du projet GUI
 ### Modifier le fichier config en se connectant sur l'interface Github 
 
@@ -131,6 +133,7 @@ _Explication_ : Normalement une fois qu'on pull un projet à jour notre status e
 ![git_checkout](https://imgur.com/jgFoLOR.png)
 
 _Explication_ : git checkout -b permet de créer et de basculer sur une branche directement, sinon nous aurions pu créer la branche avec **git branch**
+
 ### Modifier la configuration SSH
 
 ![modif](https://imgur.com/4vngXe6.png)
@@ -140,23 +143,25 @@ _Explication_ : git checkout -b permet de créer et de basculer sur une branche 
 
 ![git_push](https://imgur.com/VljdXqh.png)
 
-_Explication_ : 
+_Explication_ : `git diff` permet de voir les modifications sur les fichiers locaux dans une branche donnée.
+
 ### Créer une Pull Request sur Github
 
 ![merge_request](https://imgur.com/VN9CycW.png)
 
-_Explication_ : 
+_Explication_ : Une pull request de Github est équivalent à une merge request sur Gitlab
+
 ### Merger les 2 branches sur votre repo. (Avec les modifications de votre binome)
 
 ![merge](https://imgur.com/Lj63DEs.png)
 
-_Explication_ : 
+_Explication_ : Les pull requests permettent de déclencer des pipelines. Cependant ici ce n'est pas le cas 
 
 ![delet_branch](https://imgur.com/TdHnH0g.png)
 
-_Explication_ : 
+_Explication_ : Lors d'une pull request nous pouvons supprimer la branche qui a servit à pousser les modifs pour éviter d'avoir trop de branches sur des projets volumineux.
+
 ![delete_branch2](https://imgur.com/3vEY0YX.png)
 
-_Explication_ : 
 
 
