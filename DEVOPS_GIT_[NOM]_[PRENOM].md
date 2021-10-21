@@ -1,4 +1,4 @@
-while true;do echo $$ "hello" && sleep 10;done# B3 TP GIT
+# B3 TP GIT
 
 ## Exercice 1 : Authentification 
 
